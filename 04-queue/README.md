@@ -9,3 +9,7 @@
 -   Bounded queues have a limited size.
 -   Enqueueing onto a full queue causes a queue overflow
 -   Queues process data First In, First Out (FIFO)
+
+## Usage
+
+-   Run Script.java to test out the implementation
